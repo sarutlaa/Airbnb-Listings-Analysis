@@ -1,4 +1,4 @@
-# LA-s-Airbnb-Listings-
+# LA-s-Airbnb-Listings
 
 A Data Pipeline architecture is built involving entailing starting from locating the data sources (From Airbnb Listings), integrating( With MongoDB Atlas for data ingestion) and processing the data( involving data cleaning, data preprocessing and data analysis) finally storing or delivering the data to a destination system (Publishing the dashboards in MongoDB Atlas).
 
