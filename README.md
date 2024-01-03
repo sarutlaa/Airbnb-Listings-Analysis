@@ -1,4 +1,4 @@
-# LA-s-Airbnb-Listings
+# Airbnb-Listings-Analysis
 
 A comprehensive data pipeline architecture is established, commencing with the identification of data sources from InsideAirbnb, which encompasses Airbnb Listings across various regions. The pipeline seamlessly integrates data into MongoDB Cluster0 via MongoDB Compass, ensuring efficient ingestion into Atlas. Following integration, data is ingested into Jupyter Lab operating through Docker in JetStream Cloud setup. Leveraging the "pymongo" Python package, the pipeline establishes a connection with the database, facilitating comprehensive data cleaning, preprocessing, and in-depth analysis using Python scripting (Pandas, Seaborn). Notably, the analysis uncovers significant trends in popular property types, top hosts for the Listings, and preferred neighborhoods based on pricing insights.
 
